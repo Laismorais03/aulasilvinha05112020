@@ -1,2 +1,4 @@
 # aulasilvinha05112020
-atividades da aula da silvia sobre js
+## Conceitos  iniciais de JavaScript
+
+**Lógica deProgramação comjs
